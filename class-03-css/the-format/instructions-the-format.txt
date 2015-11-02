@@ -6,7 +6,7 @@ While our tribute page for The Format looks amaaazing in the browser, the accomp
 
 - indentation (making sure to be consistent in using either tabs or spaces)
 - line breaks (at the right spots, without extra empty lines)
-- spacing  (color:red; vs color: red)
-- capitalization  (H1 vs h1, etc)
+- spacing (color:red; vs color: red)
+- capitalization (H1 vs h1, etc)
 
-BONUS: We have some some inline CSS in index.html. That's (usually) not the best, so let's clean that up too and move it next its stylish friends in style.css.
+BONUS: We have some some inline CSS in index.html. That's (usually) not the best, so let's move it next its stylish friends in style.css.
